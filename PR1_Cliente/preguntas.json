@@ -1,0 +1,153 @@
+{
+    "questions": [{
+            "question": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+            "options": {
+                "A": "Tierra",
+                "B": "Saturno",
+                "C": "Júpiter",
+                "D": "Neptuno"
+            },
+            "correct": "c"
+        },
+        {
+            "question": "¿Quién escribió la obra 'Romeo y Julieta'?",
+            "options": {
+                "A": "Charles Dickens",
+                "B": "William Shakespeare",
+                "C": "Miguel de Cervantes",
+                "D": "Homero"
+            },
+            "correct": "b"
+        },
+        {
+            "question": "¿Cuál es la capital de Canadá?",
+            "options": {
+                "A": "Toronto",
+                "B": "Vancouver",
+                "C": "Montreal",
+                "D": "Ottawa"
+            },
+            "correct": "d"
+        },
+        {
+            "question": "¿Qué elemento químico tiene el símbolo 'Fe'?",
+            "options": {
+                "A": "Flúor",
+                "B": "Fósforo",
+                "C": "Hierro",
+                "D": "Helio"
+            },
+            "correct": "c"
+        },
+        {
+            "question": "¿Cuál es la cascada más alta del mundo?",
+            "options": {
+                "A": "Cataratas del Niágara",
+                "B": "Salto Ángel",
+                "C": "Cataratas Victoria",
+                "D": "Cataratas del Iguazú"
+            },
+            "correct": "b"
+        },
+        {
+            "question": "¿Quién pintó la 'Mona Lisa'?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Pablo Picasso",
+                "C": "Leonardo da Vinci",
+                "D": "Rembrandt"
+            },
+            "correct": "c"
+        },
+        {
+            "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+            "options": {
+                "A": "Fémur",
+                "B": "Tibia",
+                "C": "Húmero",
+                "D": "Peroné"
+            },
+            "correct": "a"
+        },
+        {
+            "question": "En la mitología griega, ¿quién era el dios del mar?",
+            "options": {
+                "A": "Zeus",
+                "B": "Hades",
+                "C": "Apolo",
+                "D": "Poseidón"
+            },
+            "correct": "d"
+        },
+        {
+            "question": "¿Cuál es el océano más grande del mundo?",
+            "options": {
+                "A": "Atlántico",
+                "B": "Índico",
+                "C": "Pacífico",
+                "D": "Ártico"
+            },
+            "correct": "c"
+        },
+        {
+            "question": "¿Qué país tiene la mayor cantidad de pirámides?",
+            "options": {
+                "A": "Egipto",
+                "B": "Perú",
+                "C": "México",
+                "D": "Sudán"
+            },
+            "correct": "d"
+        },
+        {
+            "question": "¿Cuál es la velocidad de la luz en el vacío?",
+            "options": {
+                "A": "300,000 km/h",
+                "B": "300,000 km/s",
+                "C": "150,000 km/s",
+                "D": "3,000,000 km/h"
+            },
+            "correct": "b"
+        },
+        {
+            "question": "En la obra 'Don Quijote', ¿cómo se llama su caballo?",
+            "options": {
+                "A": "Babieca",
+                "B": "Bucéfalo",
+                "C": "Rocinante",
+                "D": "Pegaso"
+            },
+            "correct": "c"
+        },
+        {
+            "question": "¿Qué metal es líquido a temperatura ambiente?",
+            "options": {
+                "A": "Plomo",
+                "B": "Mercurio",
+                "C": "Aluminio",
+                "D": "Cobre"
+            },
+            "correct": "b"
+        },
+        {
+            "question": "¿Cuál es la montaña más alta de la península ibérica?",
+            "options": {
+                "A": "Aneto",
+                "B": "Teide",
+                "C": "Mulhacén",
+                "D": "Mont Blanc"
+            },
+            "correct": "c"
+        },
+        {
+            "question": "¿Cuántas sinfonías compuso Beethoven?",
+            "options": {
+                "A": "9",
+                "B": "41",
+                "C": "104",
+                "D": "5"
+            },
+            "correct": "a"
+        }
+    ]
+}
